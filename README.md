@@ -1,0 +1,2 @@
+# -Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-
+Discover the eBook “Learn Programming for Beginners” – simple, practical, and perfect for all ages. Real examples, easy steps, and full support for new learners. Get your copy now and start your tech journey! 📹 Watch the intro:https://youtu.be/4PEoVv9RQxU &amp; 💳 Order below.:https://www.checkout-ds24.com/redir/633829/IAMoamrrrr/
